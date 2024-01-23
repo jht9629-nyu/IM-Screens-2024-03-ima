@@ -1,6 +1,6 @@
 # IM-Screens-2024-03-ima
 
-<!-- https://github.com/jht9629-nyu/IM-Screens-2024-03-ima  -->
+<!-- https://github.com/p5videoKit/IM-Screens-2024-03-ima  -->
 
 ## Course Description
 
