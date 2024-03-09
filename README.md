@@ -32,7 +32,7 @@ Several dedicated computers and screens will be available to preview installatio
 on the floor and street facing areas of the 370 Jay Street campus.
 
 Begining in 2024 the p5videoKit has by augmented with the [p5moLibrary](https://github.com/molab-itp/p5moLibrary)
-- a p5js Library for multi device experiences on handheld and large screens with backend storage
+- a p5js Library for multi device experiences on handheld and large screens with cloud storage
 
 
 ## Syllabus Overview
