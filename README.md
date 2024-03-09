@@ -11,7 +11,7 @@ on our desktops, on walls and public installations.
 
 This course will explore the creative possibilities of real-time
 interactive and reactive art on screens in various forms.
-Using the recently developed p5VideoKit we will create standalone installations.
+Using the recently developed p5videoKit we will create standalone installations.
 [p5VideoKit](https://github.com/jht9629-nyu/p5videoKit) is a new library of live video effects - building on p5js -
 presented as a dashboard for mixing video in the browser.
 This library allows the user to apply visual effects to live video
@@ -30,6 +30,10 @@ use nodejs/javascript to automate deployment of installations,
 and remotely configure dedicated computers with long running installations.
 Several dedicated computers and screens will be available to preview installations
 on the floor and street facing areas of the 370 Jay Street campus.
+
+Begining in 2024 the p5videoKit has by augmented with the [p5moLibrary](https://github.com/molab-itp/p5moLibrary)
+- a p5js Library for multi device experiences on handheld and large screens
+
 
 ## Syllabus Overview
 
