@@ -6,8 +6,8 @@
 
 Interactive multi-screen experiences
 
-As we travel we experience screens daily in many forms: in our hands,
-on our desktops, on walls and public installations.
+As we travel we experience screens in many forms: 
+in our hands, on our desktops, on walls and public installations.
 
 This course will explore the creative possibilities of real-time
 interactive and reactive art on screens in various forms.
