@@ -6,8 +6,9 @@
 
 Interactive multi-screen experiences
 
-We experience screens daily in many forms as we travel: in our hands,
+As we travel we experience screens daily in many forms: in our hands,
 on our desktops, on walls and public installations.
+
 This course will explore the creative possibilities of real-time
 interactive and reactive art on screens in various forms.
 Using the recently developed p5VideoKit we will create standalone installations.
