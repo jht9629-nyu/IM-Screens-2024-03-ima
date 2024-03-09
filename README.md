@@ -12,7 +12,7 @@ on our desktops, on walls and public installations.
 This course will explore the creative possibilities of real-time
 interactive and reactive art on screens in various forms.
 Using the recently developed p5videoKit we will create standalone installations.
-[p5VideoKit](https://github.com/jht9629-nyu/p5videoKit) is a new library of live video effects - building on p5js -
+[p5videoKit](https://github.com/jht9629-nyu/p5videoKit) is a new library of live video effects - building on p5js -
 presented as a dashboard for mixing video in the browser.
 This library allows the user to apply visual effects to live video
 from connected cameras and sensors or streaming from devices on the internet.
