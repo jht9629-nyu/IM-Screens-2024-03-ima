@@ -42,12 +42,15 @@ Begining in 2024 we will also use:
 - [p5mirror](https://github.com/molab-itp/p5mirror)
   - mirror your editor.p5js sketches into a git repo
 
+## Prerequisites
+
+- Prerequisites: ICM or equivalent coding experience.
+
 ## Syllabus Overview
 
-- [Week 1 - 03/12](weeks/01_intro.md)
-  Introductions. Local realtime video manipulation in p5js Editor. Introduction to p5VideoKit & p5moLibrary
+- [Week 1 - 03/12](weeks/01_intro.md) Introductions. Local realtime video manipulation in p5js Editor. Introduction to p5VideoKit | p5moLibrary | p5moExamples | p5mirror
 
-- [Week 2 - 03/26](weeks/02_code.md) Tooling beyond p5js editor: VS Code, git, bash, nodejs. Creating p5VideoKit effect plugins. Using p5moExamples for p5moLibrary
+- [Week 2 - 03/26](weeks/02_code.md) Tooling beyond p5js editor: VS Code, git, bash, nodejs. Creating p5VideoKit effect plugins. Using p5VideoKit | p5moLibrary | p5moExamples | p5mirror
 
 - [Week 3 - 04/02](weeks/03_time.md) Time as input
 
