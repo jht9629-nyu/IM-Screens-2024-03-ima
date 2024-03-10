@@ -56,8 +56,7 @@ Begining in 2024 the p5videoKit is augmented with the [p5moLibrary](https://gith
 
 - [My Office hours:](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUdFT1BmNTVfLW5BfGRlZmF1bHR8YmZmMzM3NDFjYjFmMGE4NDI1YTFlNWEzNGQwMGY3NTk)
 
-  - Please book a time slot at least 6 hours before the time slot.
-  - For example: if you want to see me for the 1pm time slot, enter the selection before 7am Wednesday morning.
+  - Please book a time slot at least 24 hours before the time slot.
   - if these time slots don't work for you email me your availablity for other times to meet.
 
 - [Resident office hours](https://itp.nyu.edu/help/office-hours/) (schedule)
