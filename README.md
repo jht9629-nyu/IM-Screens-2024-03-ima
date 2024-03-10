@@ -1,4 +1,4 @@
-# IM-Screens-2024-03-ima
+# [IM-Screens-2024-03-ima](https://github.com/p5videoKit/IM-Screens-2024-03-ima)
 
 <!-- https://github.com/p5videoKit/IM-Screens-2024-03-ima  -->
 
@@ -6,7 +6,7 @@
 
 Interactive multi-screen experiences
 
-As we travel we experience screens in many forms: 
+We experience screens in many forms:
 in our hands, on our desktops, on walls and public installations.
 
 This course will explore the creative possibilities of real-time
@@ -31,16 +31,23 @@ and remotely configure dedicated computers with long running installations.
 Several dedicated computers and screens will be available to preview installations
 on the floor and street facing areas of the 370 Jay Street campus.
 
-Begining in 2024 the p5videoKit is augmented with the [p5moLibrary](https://github.com/molab-itp/p5moLibrary)
-- a p5js Library for cloud storage enhanced multi-device experiences from handheld to large screens
+Begining in 2024 we will also use:
 
+- [p5moLibrary](https://github.com/molab-itp/p5moLibrary)
+
+  - a p5js Library for cloud storage enhanced multi-device experiences
+
+- [p5moExamples](https://github.com/molab-itp/p5moExamples)
+  - p5js examples for p5moLibrary
+- [p5mirror](https://github.com/molab-itp/p5mirror)
+  - mirror your editor.p5js sketches into a git repo
 
 ## Syllabus Overview
 
 - [Week 1 - 03/12](weeks/01_intro.md)
-  Introductions. Local realtime video manipulation in p5js Editor. Introduction to p5VideoKit
+  Introductions. Local realtime video manipulation in p5js Editor. Introduction to p5VideoKit & p5moLibrary
 
-- [Week 2 - 03/26](weeks/02_code.md) Tooling beyond p5js editor: VS Code, git, bash, nodejs. Creating p5VideoKit effect plugins
+- [Week 2 - 03/26](weeks/02_code.md) Tooling beyond p5js editor: VS Code, git, bash, nodejs. Creating p5VideoKit effect plugins. Using p5moExamples for p5moLibrary
 
 - [Week 3 - 04/02](weeks/03_time.md) Time as input
 
@@ -103,7 +110,5 @@ Tisch School of the Arts to dedicated to providing its students with a learning 
 ## History
 
 - [ICM-History-by-JHT](https://docs.google.com/presentation/d/1vp4-SAJlEcKLR6fYAIpatqUReJs6ugEmz-jBeSIjHys/edit#slide=id.g15b64432c0b_0_6)
-
-  
 
 # -- End
