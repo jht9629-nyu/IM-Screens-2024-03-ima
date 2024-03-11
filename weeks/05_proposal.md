@@ -25,7 +25,7 @@
 
 ## p5VideoKit Update
 
-https://github.com/jht1493/p5VideoKit
+https://github.com/molab-itp/p5videoKit
 
 - p5VideoKit re-organization
 

@@ -25,12 +25,11 @@
 
 ## Class Resources
 
+- [p5VideoKit](https://github.com/molab-itp/p5videoKit)
+
 - [p5js](https://p5js.org/)
 - [p5LiveMedia](https://github.com/vanevery/p5LiveMedia)
 - [ml5js](https://ml5js.org/)
-
-- [p5VideoKit](https://github.com/jht1493/p5VideoKit)
-
 - [p5jsShaderExamples](https://github.com/aferriss/p5jsShaderExamples)
 - [p5js-shaders](https://itp-xstory.github.io/p5js-shaders/#/)
 
@@ -42,6 +41,16 @@
   -- sign up for free account
 - [desktop.github application](https://desktop.github.com)
   -- download to Applications folder
+
+## p5videoKit Organization
+
+- Open source collaboration structures
+
+- public vs. private
+
+- [p5videoKit organization](https://github.com/p5videoKit)
+
+- [team ims-2024-03-ima](https://github.com/orgs/p5videoKit/teams/ims-2024-03-ima)
 
 ## Homework Week01
 

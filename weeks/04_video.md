@@ -10,7 +10,7 @@
 
 ## p5VideoKit
 
-https://github.com/jht1493/p5VideoKit
+https://github.com/molab-itp/p5videoKit
 
 - fork repo to customize
 - examples plugins:
