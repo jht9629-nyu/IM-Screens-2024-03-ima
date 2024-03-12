@@ -48,19 +48,36 @@ Begining in 2024 we will also use:
 
 ## Syllabus Overview
 
-- [Week 1 - 03/12](weeks/01_intro.md) Introductions. Local realtime video manipulation in p5js Editor. Introduction to p5VideoKit | p5moLibrary | p5moExamples | p5mirror
+- [Week 1 ](weeks/01_intro.md) Introductions. Local realtime video manipulation in p5js Editor. Introduction to p5VideoKit | p5moLibrary | p5moExamples | p5mirror
 
-- [Week 2 - 03/26](weeks/02_code.md) Tooling beyond p5js editor: VS Code, git, bash, nodejs. Creating p5VideoKit effect plugins. Using p5VideoKit | p5moLibrary | p5moExamples | p5mirror
+- [Week 2 ](weeks/02_code.md) Tooling beyond p5js editor: VS Code, git, bash, nodejs. Using p5VideoKit | p5moLibrary | p5moExamples | p5mirror.
 
-- [Week 3 - 04/02](weeks/03_time.md) Time as input
+- [Week 3 ](weeks/03_time.md) Time as input
 
-- [Week 4 - 04/09](weeks/04_video.md) Pixel manipulation: raw buffers pixels and GLSL shaders. p5VideoKit effects and plugins.
+- [Week 4 ](weeks/04_video.md) Pixel manipulation: raw buffers pixels and GLSL shaders. p5VideoKit effects and plugins.
 
-- [Week 5 - 04/16](weeks/05_proposal.md) Final project proposal/review
+- [Week 5 ](weeks/05_proposal.md) Final project proposal/review
 
-- [Week 6 - 04/23](weeks/06_todo.md) Final project review
+- [Week 6 ](weeks/06_review.md) Final project review
 
-- [Week 7 - 04/30](weeks/07_todo.md) Final project presentation
+- [Week 7 ](weeks/07_present.md) Final project presentation
+
+## Time | Location | Dates
+
+- IMNY-UT 281 004 Topics in Media Art
+- 09:00 AM - 12:00 PM Tuesday
+- 370 Jay St Room 410 Loc: Brooklyn Campus
+
+| Week | Date       |
+| :--- | :--------- |
+| 01.  | 2024-03-12 |
+| ---  | 2024-03-19 |
+| 02.  | 2024-03-26 |
+| 03.  | 2024-04-02 |
+| 04.  | 2024-04-09 |
+| 05.  | 2024-04-16 |
+| 06.  | 2024-04-23 |
+| 07.  | 2024-04-30 |
 
 ## Extra Support
 

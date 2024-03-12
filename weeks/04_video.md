@@ -1,4 +1,4 @@
-# Week 04
+# Week 04 Video
 
 - Pixel manipulation: raw buffers pixels and GLSL shaders
 

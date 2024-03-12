@@ -26,6 +26,15 @@
 ## Class Resources
 
 - [p5VideoKit](https://github.com/molab-itp/p5videoKit)
+  - a dashboard for mixing video in the browser.
+- [p5moLibrary](https://github.com/molab-itp/p5moLibrary)
+  - a p5js Library for cloud storage enhanced multi-device experiences
+- [p5moExamples](https://github.com/molab-itp/p5moExamples)
+  - p5js examples for p5moLibrary
+- [p5mirror](https://github.com/molab-itp/p5mirror)
+  - mirror your editor.p5js sketches into a git repo
+
+###
 
 - [p5js](https://p5js.org/)
 - [p5LiveMedia](https://github.com/vanevery/p5LiveMedia)
@@ -51,6 +60,12 @@
 - [p5videoKit organization](https://github.com/p5videoKit)
 
 - [team ims-2024-03-ima](https://github.com/orgs/p5videoKit/teams/ims-2024-03-ima)
+
+## Class Exercise
+
+- use p5mirror
+
+- pre-flight homework link
 
 ## Homework Week01
 
