@@ -34,9 +34,18 @@
 - [p5mirror](https://github.com/molab-itp/p5mirror)
   - mirror your editor.p5js sketches into a git repo
 
-###
+### p5js and editor.p5js
 
-- [p5js](https://p5js.org/)
+- [p5js](https://p5js.org/) [repo](https://github.com/processing/p5.js)
+- [editor.p5js](https://editor.p5js.org/) [repo](https://github.com/processing/p5.js-web-editor)
+
+- [Google Summer of Code 2023](https://github.com/processing/p5.js/blob/main/contributor_docs/project_wrapups/README.md)
+
+- [p5.js/releases](https://github.com/processing/p5.js/releases)
+- [p5.js-web-editor/releases](https://github.com/processing/p5.js-web-editor/releases)
+
+### Other libraries
+
 - [p5LiveMedia](https://github.com/vanevery/p5LiveMedia)
 - [ml5js](https://ml5js.org/)
 - [p5jsShaderExamples](https://github.com/aferriss/p5jsShaderExamples)
@@ -64,6 +73,9 @@
 ## Class Exercise
 
 - use p5mirror
+- [p5mirror](https://github.com/molab-itp/p5mirror)
+
+  - mirror your editor.p5js sketches into a git repo
 
 - pre-flight homework link
 
