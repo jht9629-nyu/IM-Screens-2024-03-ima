@@ -34,7 +34,9 @@
 - [p5mirror](https://github.com/molab-itp/p5mirror)
   - mirror your editor.p5js sketches into a git repo
 
-### p5js and editor.p5js
+### p5js and editor.p5js -- processing foundation
+
+structure of open source non-profit organization
 
 - [p5js](https://p5js.org/) [repo](https://github.com/processing/p5.js)
 - [editor.p5js](https://editor.p5js.org/) [repo](https://github.com/processing/p5.js-web-editor)
