@@ -81,7 +81,7 @@
 
 ## Homework Week01
 
-- put your wiki page with the nick name that you will use in this class
+- create your wiki page with the nick name that you will use in this class
 
 - find a p5js sketch that tickles your fancy
 - duplicate the sketch and add a comment to link to the original
