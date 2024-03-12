@@ -61,6 +61,8 @@ structure of open source non-profit organization
   -- sign up for free account
 - [desktop.github application](https://desktop.github.com)
   -- download to Applications folder
+- [nodejs](https://nodejs.org/en/download)
+  -- install
 
 ## p5videoKit Organization
 
