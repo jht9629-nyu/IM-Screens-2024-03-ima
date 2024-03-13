@@ -39,6 +39,6 @@ https://github.com/molab-itp/p5videoKit
   - give feedback via p5VideoKit issues
   - pull request to add your plugin
 
-- add a link to your sketch or git repo on the [wiki home page](https://github.com/jht9629/IM-Screens/wiki#week-04-homework)
+- add a link to your sketch or git repo on the [wiki home page](https://github.com/p5videoKit/IM-Screens-2024-03-ima/wiki#week-04-homework)
 
 - enter any questions or notes on your wiki page

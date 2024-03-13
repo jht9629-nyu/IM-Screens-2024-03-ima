@@ -55,14 +55,14 @@ structure of open source non-profit organization
 
 ## Required Tools
 
-- [Visual Studio Code application](https://code.visualstudio.com/download)
-  -- download to Applications folder
 - [github.com account](https://github.com)
   -- sign up for free account
+- [Visual Studio Code application](https://code.visualstudio.com/download)
+  -- download to Applications folder
 - [desktop.github application](https://desktop.github.com)
   -- download to Applications folder
 - [nodejs](https://nodejs.org/en/download)
-  -- install
+  -- install, needed by p5mirror bash scripts
 
 ## p5videoKit Organization
 
