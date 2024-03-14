@@ -86,9 +86,9 @@ Begining in 2024 we will also use:
   - Please book a time slot at least 24 hours before the time slot.
   - if these time slots don't work for you email me your availablity for other times to meet.
 
+- [yu's office hours](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUEtWGdzN0hwY1hEfGRlZmF1bHR8MDE3ZjdjNTNhMzA1YTIxYWFjZDQ2OWMyYmZkYjhjYzU)
 - [Resident office hours](https://itp.nyu.edu/help/office-hours/) (schedule)
 - [The Coding Lab](https://codinglab.itp.io/) (schedule or drop-in help)
-- [Yu's OH](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUEtWGdzN0hwY1hEfGRlZmF1bHR8MDE3ZjdjNTNhMzA1YTIxYWFjZDQ2OWMyYmZkYjhjYzU)
 
 # Policies
 
