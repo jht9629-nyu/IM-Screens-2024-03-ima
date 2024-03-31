@@ -6,24 +6,74 @@
 
 // https://editor.p5js.org/jht9629-nyu/sketches/3VKJ-q8ar
 // ims03-jht scrolling color bars
+// color pops on at wrap around - no rate regulation
 
-// https://editor.p5js.org/jht9629-nyu/sketches/ZGUqiovgG
-// ims03-jht scrolling color time
+// https://editor.p5js.org/jht9629-nyu/sketches/ZpoPuHXRo
+// ims04-jht scroll color bars - no pop
 
-# Copy to jht9629-nyu
-// https://editor.p5js.org/jht9629-gmail/sketches/LnPplI2CR
-// truchet tiles pause
+// https://editor.p5js.org/jht9629-nyu/sketches/2pxhnehBV
+// ims04-jht scroll color rate
+// rate adjusted to achieve complete
+// scroll in my.scrollSeconds
+// https://p5js.org/reference/#/p5/deltaTime
+  let deltaSecs = deltaTime / 1000
+  my.xstep = width * deltaSecs / my.scrollSeconds;
+
+// https://editor.p5js.org/jht9629-nyu/sketches/i6akdNRS2
+// video scan radial v7
+  secsDelta += deltaTime / 1000;
+
+// https://editor.p5js.org/jht9629-nyu/sketches/wT957KlMz
+// MazeSpin liberation screens v2
+  let now = millis() / 1000;
+
 
 ```
 
-## nodejs setup
+## saving data locally
 
-[https://nodejs.org/en/download](https://nodejs.org/en/download)
+Must locally or in web browser to use url parameters
+
+- url param strings
+- localStorage
+
+```
+// https://editor.p5js.org/jht9629-nyu/sketches/TQyVoswjQ
+// p5moLibrary DrawPoints
+// https://molab-itp.github.io/p5moLibrary/src/demo/DrawPoints/?v=65
+
+// https://editor.p5js.org/jht9629-nyu/sketches/iIIAb8KIDr
+// p5moLibrary Astronomical 47
+// https://molab-itp.github.io/p5moLibrary/src/demo/Astronomical/?v=65
+
+```
+
+- [p5moLibrary](https://github.com/molab-itp/p5moLibrary)
 
 ## Homework Week03
 
 - Create a p5js sketch that reacts to time and plays full screen. If you use some other web-base tech create a p5js sketch that links to it.
 
+  - if your sketch supports configuration options, use localStorage to save them
+  - Optional: make the p5js sketch available via your github repo
+
 - add a link to your sketch on the [wiki home page](https://github.com/p5videoKit/IM-Screens-2024-03-ima/wiki#week-03-homework)
 
 - enter any questions or notes on your wiki page
+
+<!-- ## nodejs setup
+
+[https://nodejs.org/en/download](https://nodejs.org/en/download)
+
+ -->
+
+## Class Resources
+
+- [p5VideoKit](https://github.com/molab-itp/p5videoKit)
+  - a dashboard for mixing video in the browser.
+- [p5moLibrary](https://github.com/molab-itp/p5moLibrary)
+  - a p5js Library for cloud storage enhanced multi-device experiences
+- [p5moExamples](https://github.com/molab-itp/p5moExamples)
+  - p5js examples for p5moLibrary
+- [p5mirror](https://github.com/molab-itp/p5mirror)
+  - mirror your editor.p5js sketches into a git repo
