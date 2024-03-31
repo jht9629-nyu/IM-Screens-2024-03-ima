@@ -69,11 +69,17 @@ Must locally or in web browser to use url parameters
 
 ## Class Resources
 
+- [p5mirror](https://github.com/molab-itp/p5mirror)
+
+  - mirror your editor.p5js sketches into a git repo
+
+- [p5moExamples](https://github.com/molab-itp/p5moExamples)
+
+  - p5js examples for p5moLibrary
+
+- [p5moLibrary](https://github.com/molab-itp/p5moLibrary)
+
+  - a p5js Library for cloud storage enhanced multi-device experiences
+
 - [p5VideoKit](https://github.com/molab-itp/p5videoKit)
   - a dashboard for mixing video in the browser.
-- [p5moLibrary](https://github.com/molab-itp/p5moLibrary)
-  - a p5js Library for cloud storage enhanced multi-device experiences
-- [p5moExamples](https://github.com/molab-itp/p5moExamples)
-  - p5js examples for p5moLibrary
-- [p5mirror](https://github.com/molab-itp/p5mirror)
-  - mirror your editor.p5js sketches into a git repo
