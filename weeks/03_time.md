@@ -52,10 +52,9 @@ Must locally or in web browser to use url parameters
 
 ## Homework Week03
 
-- Create a p5js sketch that reacts to time and plays full screen. If you use some other web-base tech create a p5js sketch that links to it.
+- Expand your full screen p5js screen or write/find a new one to use configuration data
 
-  - if your sketch supports configuration options, use localStorage to save them
-  - Optional: make the p5js sketch available via your github repo
+  - make the p5js sketch available via your github repo as github pages
 
 - add a link to your sketch on the [wiki home page](https://github.com/p5videoKit/IM-Screens-2024-03-ima/wiki#week-03-homework)
 
