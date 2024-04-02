@@ -46,6 +46,9 @@ Must locally or in web browser to use url parameters
 // p5moLibrary Astronomical 47
 // https://molab-itp.github.io/p5moLibrary/src/demo/Astronomical/?v=65
 
+// https://editor.p5js.org/jht9629-nyu/sketches/5fTCCJ_Sh
+// get_url_params demo
+
 ```
 
 - [p5moLibrary](https://github.com/molab-itp/p5moLibrary)
