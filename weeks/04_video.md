@@ -1,5 +1,7 @@
 # Week 04 Video and cloud data
 
+- mo-videoplayer
+
 - cloud data with firebase
 
 - Pixel manipulation: raw buffers pixels and GLSL shaders
@@ -8,6 +10,22 @@
 
 [https://nodejs.org/en/download](https://nodejs.org/en/download)
  -->
+
+## What's new
+
+[p5mirror-jht9629-nyu](https://jht9629-nyu.github.io/p5mirror-jht9629-nyu/downloads/gen/sketches_recent.html)
+
+## mo-videoplayer
+
+```
+// https://editor.p5js.org/jht9629-nyu/sketches/7hzeHDSIl
+// 03-jht-hatviz
+
+https://www.youtube.com/watch?v=W-ECvtIA-5A
+Aperiodic monotile animation
+
+https://molab-itp.github.io/p5moLibrary/src/demo/mo-videoplayer/?playlist=W-ECvtIA-5A&title=Aperiodic%20monotile%20animation
+```
 
 ## p5mo alliance
 
