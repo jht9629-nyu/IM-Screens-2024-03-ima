@@ -51,7 +51,10 @@ https://molab-itp.github.io/p5moLibrary/src/demo/mo-videoplayer/?playlist=W-ECvt
 
 ## Homework Week04
 
-- prepare your final project proposal - or continue working on final project if already started
+- prepare your final project proposal
+
+  - or continue working on final project if already started
+  - you can build on any of the resources covered in class or one that you've found
 
 - be prepared to discuss: Progress / Plans / Problems - summarize on your wiki page
 
