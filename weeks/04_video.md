@@ -1,16 +1,25 @@
-# Week 04 Video
+# Week 04 Video and cloud data
+
+- cloud data with firebase
 
 - Pixel manipulation: raw buffers pixels and GLSL shaders
 
-- p5VideoKit effects and plugins.
-
-## nodejs setup
+<!-- ## nodejs setup
 
 [https://nodejs.org/en/download](https://nodejs.org/en/download)
+ -->
+
+## p5mo alliance
+
+- [p5moExamples](https://github.com/molab-itp/p5moExamples)
+
+  - multi-device experiences on handheld and large screens
+  - creating and updating firebase cloud data
+  - p5js examples for p5moLibrary
 
 ## p5VideoKit
 
-https://github.com/molab-itp/p5videoKit
+- [p5VideoKit effects and plugins.](https://github.com/molab-itp/p5videoKit)
 
 - fork repo to customize
 - examples plugins:
@@ -31,6 +40,10 @@ https://github.com/molab-itp/p5videoKit
 - optional -
 
   - create git repo for your final project
+
+- optional -
+
+  - build on the p5moExamples to create small screen + big screen experience
 
 - optional -
 
