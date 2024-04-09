@@ -53,8 +53,9 @@ https://molab-itp.github.io/p5moLibrary/src/demo/mo-videoplayer/?playlist=W-ECvt
 
 - prepare your final project proposal
 
-  - or continue working on final project if already started
+  - describe on your wiki page what p5js interactive experience you hope to build over the next 3 weeks.
   - you can build on any of the resources covered in class or one that you've found
+  - provide links to any work you use
 
 - be prepared to discuss: Progress / Plans / Problems - summarize on your wiki page
 
@@ -75,4 +76,5 @@ https://molab-itp.github.io/p5moLibrary/src/demo/mo-videoplayer/?playlist=W-ECvt
 
 - add a link to your sketch or git repo on the [wiki home page](https://github.com/p5videoKit/IM-Screens-2024-03-ima/wiki#week-04-homework)
 
+- give a brief summary of on your wiki page for the past 4 weeks
 - enter any questions or notes on your wiki page
