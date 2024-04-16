@@ -44,8 +44,9 @@ bin/run-gallery-yoyo.sh
 
 ## Final Project proposal - update
 
-- what do you need?
-- how can you help your class mates?
+- status of your final project
+- update your wiki page
+  - progress | problems| plans | questions
 
 <!--
 ## nodejs setup
