@@ -45,7 +45,11 @@ bin/run-gallery-yoyo.sh
 ## Final Project proposal - update
 
 - status of your final project
-- update your wiki page
+
+## Homework Week05
+
+- keep working on your final project
+- update your wiki page weekly with
   - progress | problems| plans | questions
 
 <!--
