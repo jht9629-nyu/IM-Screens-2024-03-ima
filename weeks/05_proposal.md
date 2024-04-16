@@ -1,11 +1,5 @@
 # Week 05 Proposal
 
-## screens usage protocol
-
-- [IM-Screens 2023 timeslot](https://docs.google.com/spreadsheets/d/1eMLdZauqS5qzDRSNc-vvDSxh_qcqqEmpMbMYTgt_4w4/edit#gid=0)
-
-- use Notes app to document setup link
-
 ## maze bits evolution
 
 ```
@@ -20,14 +14,13 @@
 // https://jht9629-nyu.github.io/my-p5js-repo-2023/p5-projects/maze_tiles_bits/
 // State machine for time based-animation
 // https://github.com/jht9629-nyu/my-p5js-repo-2023/tree/main/p5-projects/maze_tiles_bits
-
 ```
 
-## p5VideoKit Update
+## p5VideoKit
 
 https://github.com/molab-itp/p5videoKit
 
-- p5VideoKit re-organization
+- p5VideoKit
 
 - shader effects examples and WEBGL p5VideoKit integration
 
@@ -52,10 +45,23 @@ bin/run-gallery-yoyo.sh
 ## Final Project proposal - update
 
 - what do you need?
-- how can you help?
+- how can you help your class mates?
 
+<!--
+## nodejs setup
+
+- nodejs needed to run p5VideoKit/bin/build.sh
+
+[https://nodejs.org/en/download](https://nodejs.org/en/download)
+
+## my-p5js-repo
+
+- nodejs used in my-p5js-repo to automate download of your p5js editor sketches
+
+[my-p5js-repo](https://github.com/jht9629-nyu/my-p5js-repo-2023)
+ -->
+<!--
 ```
-// for Mat
 // https://editor.p5js.org/jht9629-nyu/sketches/-t2O5JfBr
 // timed-drawing
 
@@ -69,17 +75,9 @@ bin/run-gallery-yoyo.sh
 // note version to verify github pages deployed
 // https://mobilelabclass-itp.github.io/98-MoGallery-p5js/p5js_demos/createImg-board/?gallery=web
 // https://mobilelabclass-itp.github.io/98-MoGallery-p5js/p5js_demos/createImg-board/?gallery=ims-web
-
 ```
+-->
 
-## nodejs setup
+<!-- ## screens usage protocol
 
-- nodejs needed to run p5VideoKit/bin/build.sh
-
-[https://nodejs.org/en/download](https://nodejs.org/en/download)
-
-## my-p5js-repo
-
-- nodejs used in my-p5js-repo to automate download of your p5js editor sketches
-
-[my-p5js-repo](https://github.com/jht9629-nyu/my-p5js-repo-2023)
+- [IM-Screens 2023 timeslot](https://docs.google.com/spreadsheets/d/1eMLdZauqS5qzDRSNc-vvDSxh_qcqqEmpMbMYTgt_4w4/edit#gid=0)
