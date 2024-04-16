@@ -1,6 +1,6 @@
 # Week 05 Proposal
 
-## p5mirror update
+## p5mirror check
 
 - [run your p5mirror fork update](https://github.com/molab-itp/p5mirror/forks?include=active%2Cnetwork&page=1&period=2y&sort_by=last_updated)
   - [https://github.com/leey611](https://github.com/leey611/p5mirror-leey611)
@@ -8,6 +8,10 @@
   - [github.com/paulineium](https://github.com/paulineium/p5mirror-pk2196)
   - [github.com/jiaying0412](https://github.com/jiaying0412/p5mirror---jiaying0822)
   - who is missing?
+
+## Firebase check
+
+- does your access work?
 
 ## maze bits evolution
 
