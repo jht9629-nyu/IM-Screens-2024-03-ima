@@ -58,8 +58,9 @@ bin/run-gallery-yoyo.sh
 
 ## Homework Week05
 
-- keep working on your final project
+- work on your final project
 - update your wiki page weekly with
+  - class feedback
   - progress | problems| plans | questions
 
 <!--
