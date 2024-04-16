@@ -1,5 +1,14 @@
 # Week 05 Proposal
 
+## p5mirror update
+
+- [run your p5mirror fork update](https://github.com/molab-itp/p5mirror/forks?include=active%2Cnetwork&page=1&period=2y&sort_by=last_updated)
+  - [https://github.com/leey611](https://github.com/leey611/p5mirror-leey611)
+  - [github.com/karakkzzk](https://github.com/karakkzzk/p5mirror-karakkzzk)
+  - [github.com/paulineium](https://github.com/paulineium/p5mirror-pk2196)
+  - [github.com/jiaying0412](https://github.com/jiaying0412/p5mirror---jiaying0822)
+  - who is missing?
+
 ## maze bits evolution
 
 ```
@@ -42,7 +51,7 @@ https://github.com/molab-itp/p5videoKit
 bin/run-gallery-yoyo.sh
 ```
 
-## Final Project proposal - update
+## Final Project proposal report
 
 - status of your final project
 
