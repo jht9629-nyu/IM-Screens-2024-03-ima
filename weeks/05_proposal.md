@@ -43,6 +43,7 @@ https://github.com/molab-itp/p5videoKit
 ## skin-tone update
 
 - [skin-tone-main-qr update](https://jht1493.net/p5VideoKit/demo/index.html?u=8&d=settings/skin-tone-main-qr.json)
+  - [last week failure](https://github.com/ml5js/ml5-library/issues/1483)
 
 ## p5VideoKit and electron
 
