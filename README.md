@@ -100,6 +100,12 @@ Begining in 2024 we will also use:
 - Participation and Attendance 30%
 - Final Project 40%
 
+### ima-class-attendance-policy
+
+- [ima-class-attendance-policy](https://itp.nyu.edu/help/itp-ima-class-attendance-policy/)
+
+...At most two unexcused absences while you are enrolled in the course will be tolerated without effect to your grade...
+
 ## STATEMENT OF ACADEMIC INTEGRITY
 
 Plagiarism is presenting someone else’s work as though it were your own -- More specifically, plagiarism is to present as your own: A sequence of words quoted without quotation marks from another writer or a paraphrased passage from another writer’s work or facts, ideas or images composed by someone else.
