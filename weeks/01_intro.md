@@ -63,6 +63,7 @@ structure of open source non-profit organization
   -- download to Applications folder
 - [nodejs](https://nodejs.org/en/download)
   -- install, needed by p5mirror bash scripts
+- [p5-vscode extensionfor VSCode](https://marketplace.visualstudio.com/items?itemName=samplavigne.p5-vscode)
 
 ## p5videoKit Organization
 
